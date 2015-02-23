@@ -1,5 +1,5 @@
 # Squid3-beEF
-Proof of Concept - Hijack [Squid](http://www.squid-cache.org/) proxy traffic and inject [BeEF](http://beefproject.com/) payload into it.
+Proof of Concept - Using [squid](http://www.squid-cache.org/) url rewrite feature to "hijack" proxy traffic and inject [BeEF](http://beefproject.com/) payload into it.
 
 # Requirement
 - PHP 5.3
